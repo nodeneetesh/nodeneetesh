@@ -1,23 +1,27 @@
 <div align="center">
 
-```ansi
-[1;91m╔══════════════════════════════════════════════╗[0m
-[1;91m║[0m            [1;91mSPIDER CODE SYSTEM[0m                [1;91m║[0m
-[1;91m╠══════════════════════════════════════════════╣[0m
-[1;91m║[0m  [94mSYSTEM BOOTING...[0m                             [1;91m║[0m
-[1;91m║[0m                                                [1;91m║[0m
-[1;91m║[0m  [97mWEB CONNECTION[0m      [91m[[1;94m✓ ONLINE[0m[91m][0m            [1;91m║[0m
-[1;91m║[0m  [97mGITHUB CORE[0m         [91m[[1;94m✓ LINKED[0m[91m][0m            [1;91m║[0m
-[1;91m║[0m  [97mCODE ENGINE[0m         [91m[[1;94m✓ LOADED[0m[91m][0m            [1;91m║[0m
-[1;91m║[0m  [97mSPIDER SENSE[0m        [91m[[1;94m✓ ACTIVE[0m[91m][0m            [1;91m║[0m
-[1;91m║[0m                                                [1;91m║[0m
-[1;91m║[0m  [90mPLAYER DETECTED:[0m [97mNEETESH[0m                     [1;91m║[0m
-[1;91m╚══════════════════════════════════════════════╝[0m
+
+<img src="./assets/spider-boot.svg" width="520" alt="spider boot animation"/>
+
+
+```text
+╔══════════════════════════════════════════════╗
+║             SPIDER CODE SYSTEM                ║
+╠══════════════════════════════════════════════╣
+║  SYSTEM BOOTING...                            ║
+║                                                ║
+║  WEB CONNECTION      [ ✓ ONLINE ]             ║
+║  GITHUB CORE         [ ✓ LINKED ]             ║
+║  CODE ENGINE         [ ✓ LOADED ]             ║
+║  SPIDER SENSE        [ ✓ ACTIVE ]             ║
+║                                                ║
+║  PLAYER DETECTED:  NEETESH                    ║
+╚══════════════════════════════════════════════╝
 ```
 
-<img src="./assets/spider-boot.svg" width="480" alt="spider boot animation"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2200&pause=700&color=E23636&center=true&vCenter=true&width=560&lines=INITIALIZING+SPIDER+CODE...;SPIDER+SENSE%3A+TINGLING...;WELCOME%2C+NEETESH." alt="typing"/>
+
 
 </div>
 
@@ -37,15 +41,11 @@
 > *"With great code comes great responsibility."*
 
 
-```ansi
-[1;91m┌──────────────────────────────────────────────┐[0m
-[1;91m│[0m  [1;91mLEVEL[0m      [1;94m07[0m         [1;91mCOMBO[0m     [1;94msee live meter[0m
-[1;91m│[0m  [1;91mXP[0m         [1;94m7,450/10,000[0m
-[1;91m│[0m  [1;91mMISSION[0m    [1;94mProduction-Ready Dev[0m
-[1;91m│[0m  [1;91mCLASS[0m      [1;94mBackend Slinger[0m
-[1;91m│[0m  [1;91mSTATUS[0m     [97m🟢 ONLINE[0m
-[1;91m└──────────────────────────────────────────────┘[0m
-```
+<img src="https://img.shields.io/badge/LEVEL-07-E23636?style=for-the-badge&labelColor=0D0D0D" alt="LEVEL"/> <img src="https://img.shields.io/badge/XP-7450/10000-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt="XP"/> <img src="https://img.shields.io/badge/CLASS-Backend%20Slinger-E23636?style=for-the-badge&labelColor=0D0D0D" alt="CLASS"/> <img src="https://img.shields.io/badge/STATUS-ONLINE-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt="STATUS"/>
+
+
+<img src="https://img.shields.io/badge/MISSION-Production--Ready%20Dev-E23636?style=for-the-badge&labelColor=0D0D0D" alt="MISSION"/>
+
 
 </div>
 
@@ -59,10 +59,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nodeneetesh&theme=dark&hide_border=true&background=0D0D0D&ring=E23636&fire=E23636&currStreakLabel=1E90FF&sideLabels=1E90FF&sideNums=E23636&dates=8B1A1A" alt="streak"/>
 
 
-```ansi
-[1;91mCOMBO STATUS[0m
-[1;91m████████████████████[0m [1;94mACTIVE[0m
-```
+<img src="https://img.shields.io/badge/COMBO%20STATUS-ACTIVE-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt="COMBO STATUS"/>
+
 
 <sub>Live GitHub data — nothing here is hand-typed.</sub>
 
@@ -76,36 +74,45 @@
 
 <img src="./assets/spider-sense.svg" width="80"/>
 
-
-```ansi
-[1;91mTHREAT DETECTED[0m
-[91m⚠ BUG[0m              [90m→[0m  [1;94m🧠 DEBUG[0m
-[91m⚠ FAILED TEST[0m      [90m→[0m  [1;94m⚡ THINK[0m
-[91m⚠ UNSOLVED DSA[0m     [90m→[0m  [1;94m💻 CODE[0m
-[91m⚠ BUILD ERROR[0m      [90m→[0m  [1;94m✅ FIX[0m
-```
-
 </div>
+
+
+<table>
+<tr><th>⚠️ THREAT DETECTED</th><th>🧠 RESPONSE PROTOCOL</th></tr>
+
+<tr><td>BUG</td><td>DEBUG → breakpoints → console.log</td></tr>
+
+<tr><td>FAILED TEST</td><td>THINK → re-read stack trace → fix</td></tr>
+
+<tr><td>UNSOLVED DSA</td><td>CODE → whiteboard → brute force → optimize</td></tr>
+
+<tr><td>BUILD ERROR</td><td>DEPLOY → clean → rebuild → check deps</td></tr>
+
+</table>
 
 <div align="center"><img src="./assets/spider-divider.svg" width="100%" alt="web divider"/></div>
 
 ## 🎯 SPIDER MISSIONS
 
 
-```ansi
-[1;91mMAIN MISSION[0m
-[1;91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
-[97mBecome a production-ready full-stack developer[0m
-[1;91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+<img src="https://img.shields.io/badge/MAIN%20MISSION-Become%20a%20Production--Ready%20Dev-E23636?style=for-the-badge&labelColor=0D0D0D" alt="MAIN MISSION"/>
 
-[1;91mSIDE MISSIONS[0m
-[90m□[0m [97mMaster DSA[0m                          [94m+500 XP[0m
-[90m□[0m [97mShip Spring Boot projects[0m           [94m+250 XP[0m
-[90m□[0m [97mLevel up competitive programming[0m    [94m+200 XP[0m
-[90m□[0m [97mLearn system design[0m                 [94m+250 XP[0m
-[90m□[0m [97mContribute to open source[0m           [94m+150 XP[0m
-[90m□[0m [97mDeploy real applications[0m            [94m+100 XP[0m
-```
+
+| STATUS | SIDE MISSION | REWARD |
+|:---:|---|:---:|
+
+| ⬜ | Master DSA | <img src="https://img.shields.io/badge/XP-+500-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt="XP"/> |
+
+| ⬜ | Ship Spring Boot projects | <img src="https://img.shields.io/badge/XP-+250-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt="XP"/> |
+
+| ⬜ | Level up competitive programming | <img src="https://img.shields.io/badge/XP-+200-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt="XP"/> |
+
+| ⬜ | Learn system design | <img src="https://img.shields.io/badge/XP-+250-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt="XP"/> |
+
+| ⬜ | Contribute to open source | <img src="https://img.shields.io/badge/XP-+150-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt="XP"/> |
+
+| ⬜ | Deploy real applications | <img src="https://img.shields.io/badge/XP-+100-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt="XP"/> |
+
 
 <sub>XP values are a personal gamification system, not an official metric.</sub>
 
@@ -115,57 +122,85 @@
 ## ⚔️ COMBO CHAINS
 
 
-```ansi
-[91mJAVA[0m [90m→[0m [91mSPRING BOOT[0m [90m→[0m [91mDATABASE[0m [90m→[0m [91mREST API[0m
-[1;94m🔥 BACKEND COMBO ×5[0m
-
-[91mDSA[0m [90m→[0m [91mLEETCODE[0m [90m→[0m [91mCONTEST[0m [90m→[0m [91mCODECHEF[0m
-[1;94m🔥 ALGORITHM COMBO ×4[0m
-
-[91mHTML[0m [90m→[0m [91mCSS[0m [90m→[0m [91mJAVASCRIPT[0m [90m→[0m [91mREACT[0m
-[1;94m🔥 FRONTEND COMBO ×4[0m
+```text
+JAVA → SPRING BOOT → DATABASE → REST API
 ```
+<img src="https://img.shields.io/badge/BACKEND%20COMBO-x5-E23636?style=for-the-badge&labelColor=0D0D0D" alt="BACKEND COMBO"/>
+
+
+```text
+DSA → LEETCODE → CONTEST → CODECHEF
+```
+<img src="https://img.shields.io/badge/ALGORITHM%20COMBO-x4-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt="ALGORITHM COMBO"/>
+
+
+```text
+HTML → CSS → JAVASCRIPT → REACT
+```
+<img src="https://img.shields.io/badge/FRONTEND%20COMBO-x4-E23636?style=for-the-badge&labelColor=0D0D0D" alt="FRONTEND COMBO"/>
+
 
 <div align="center"><img src="./assets/spider-divider.svg" width="100%" alt="web divider"/></div>
 
 ## 🕷️ SUIT UPGRADES — SKILL TREE
 
 
-```ansi
-[1;91m                         🕷️ SPIDER CODE[0m
-                              [91m│[0m
-        [91m┌─────────────────────┼─────────────────────┐[0m
-        [91m│[0m                     [91m│[0m                     [91m│[0m
-    [1;94mFRONTEND[0m              [1;94mBACKEND[0m                [1;94mDSA[0m
-        [91m│[0m                     [91m│[0m                     [91m│[0m
-   [97mHTML/CSS/JS[0m          [97mJAVA/SPRING[0m          [97mARRAYS/STRINGS[0m
-     [97mREACT[0m               [97mBOOT/MYSQL[0m          [97mTREES/GRAPHS/DP[0m
+```text
+                        🕷️ SPIDER CODE
+                              │
+        ┌─────────────────────┼─────────────────────┐
+        │                     │                     │
+    FRONTEND              BACKEND                  DSA
+        │                     │                     │
+   HTML/CSS/JS          JAVA/SPRING          ARRAYS/STRINGS
+     REACT               BOOT/MYSQL          TREES/GRAPHS/DP
 ```
 
-```ansi
-[1;91mJAVA[0m           [91m████████[90m░░[0m  [1;94m80%[0m
-[1;91mSPRING BOOT[0m    [91m███████[90m░░░[0m  [1;94m70%[0m
-[1;91mJAVASCRIPT[0m     [91m███████[90m░░░[0m  [1;94m70%[0m
-[1;91mREACT[0m          [91m█████[90m░░░░░[0m  [1;94m50%[0m
-[1;91mDSA[0m            [91m████████[90m░░[0m  [1;94m80%[0m
-[1;91mSQL[0m            [91m██████[90m░░░░[0m  [1;94m60%[0m
-```
+
+<div align="center">
+
+
+<img src="https://progress-bar.dev/80/?title=Java&width=220&color=e23636&title_width=110" alt="Java progress"/><br>
+
+<img src="https://progress-bar.dev/70/?title=Spring%20Boot&width=220&color=1e90ff&title_width=110" alt="Spring Boot progress"/><br>
+
+<img src="https://progress-bar.dev/70/?title=JavaScript&width=220&color=e23636&title_width=110" alt="JavaScript progress"/><br>
+
+<img src="https://progress-bar.dev/50/?title=React&width=220&color=1e90ff&title_width=110" alt="React progress"/><br>
+
+<img src="https://progress-bar.dev/80/?title=DSA&width=220&color=e23636&title_width=110" alt="DSA progress"/><br>
+
+<img src="https://progress-bar.dev/60/?title=SQL&width=220&color=1e90ff&title_width=110" alt="SQL progress"/>
+
+
+</div>
 
 <div align="center"><img src="./assets/spider-divider.svg" width="100%" alt="web divider"/></div>
 
 ## 🎒 SUIT ARSENAL
 
 
-```ansi
-[1;91mJAVA[0m            [90m→[0m  [1;94mBACKEND POWER[0m
-[1;91mSPRING BOOT[0m     [90m→[0m  [1;94mWEB ENGINE[0m
-[1;91mJAVASCRIPT[0m      [90m→[0m  [1;94mWEB CONTROL[0m
-[1;91mREACT[0m           [90m→[0m  [1;94mUI REFLEX SYSTEM[0m
-[1;91mDSA[0m             [90m→[0m  [1;94mSPIDER SENSE[0m
-[1;91mMYSQL[0m           [90m→[0m  [1;94mDATA VAULT[0m
-[1;91mGIT[0m             [90m→[0m  [1;94mTIME-REWIND MODULE[0m
-[1;91mGITHUB[0m          [90m→[0m  [1;94mWEB NETWORK[0m
-```
+<table>
+<tr><th>TECH</th><th>ABILITY</th></tr>
+
+<tr><td>Java</td><td>Backend Power</td></tr>
+
+<tr><td>Spring Boot</td><td>Web Engine</td></tr>
+
+<tr><td>JavaScript</td><td>Web Control</td></tr>
+
+<tr><td>React</td><td>UI Reflex System</td></tr>
+
+<tr><td>DSA</td><td>Spider Sense</td></tr>
+
+<tr><td>MySQL</td><td>Data Vault</td></tr>
+
+<tr><td>Git</td><td>Time-Rewind Module</td></tr>
+
+<tr><td>GitHub</td><td>Web Network</td></tr>
+
+</table>
+
 
 <div align="center">
 
@@ -190,14 +225,23 @@
 ## 🏆 SPIDER ACHIEVEMENTS
 
 
-```ansi
-[1;91m🕷️ FIRST WEB[0m         [97mFirst GitHub repository[0m       [1;94m🔓 UNLOCKED[0m
-[1;91m🔥 STREAK MASTER[0m     [97mMaintain a coding streak[0m      [1;94m🔓 UNLOCKED[0m
-[1;91m⚔️ CODE WARRIOR[0m      [97mSolve 100+ DSA problems[0m       [90m🔒 LOCKED[0m
-[1;91m🚀 PROJECT LAUNCH[0m    [97mDeploy a real project[0m         [1;94m🔓 UNLOCKED[0m
-[1;91m🌐 OPEN SOURCE ALLY[0m  [97mContribute to open source[0m     [90m🔒 LOCKED[0m
-[1;91m🏗️ ARCHITECT[0m         [97mDesign a system from scratch[0m  [90m🔒 LOCKED[0m
-```
+<table>
+<tr><th>BADGE</th><th>ACHIEVEMENT</th><th>STATUS</th></tr>
+
+<tr><td>🕷️ FIRST WEB</td><td>First GitHub repository</td><td><img src="https://img.shields.io/badge/-UNLOCKED-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt=""/></td></tr>
+
+<tr><td>🔥 STREAK MASTER</td><td>Maintain a coding streak</td><td><img src="https://img.shields.io/badge/-UNLOCKED-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt=""/></td></tr>
+
+<tr><td>⚔️ CODE WARRIOR</td><td>Solve 100+ DSA problems</td><td><img src="https://img.shields.io/badge/-LOCKED-3A3A3A?style=for-the-badge&labelColor=0D0D0D" alt=""/></td></tr>
+
+<tr><td>🚀 PROJECT LAUNCH</td><td>Deploy a real project</td><td><img src="https://img.shields.io/badge/-UNLOCKED-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt=""/></td></tr>
+
+<tr><td>🌐 OPEN SOURCE ALLY</td><td>Contribute to open source</td><td><img src="https://img.shields.io/badge/-LOCKED-3A3A3A?style=for-the-badge&labelColor=0D0D0D" alt=""/></td></tr>
+
+<tr><td>🏗️ ARCHITECT</td><td>Design a system from scratch</td><td><img src="https://img.shields.io/badge/-LOCKED-3A3A3A?style=for-the-badge&labelColor=0D0D0D" alt=""/></td></tr>
+
+</table>
+
 
 <sub>Replace UNLOCKED/LOCKED based on what you've actually achieved.</sub>
 
@@ -218,12 +262,12 @@
 ## ⚔️ CODING COMBAT ARENA — CODECHEF
 
 
-```ansi
-[1;91mRATING[0m      [1;94m[YOUR_RATING][0m
-[1;91mSTARS[0m       [1;94m[YOUR_STARS][0m
-[1;91mCONTESTS[0m    [1;94m[YOUR_CONTEST_COUNT][0m
-[1;91mPROBLEMS[0m    [1;94m[YOUR_SOLVED_COUNT][0m
-```
+<table align="center">
+<tr><th>RATING</th><th>STARS</th><th>CONTESTS</th><th>PROBLEMS</th></tr>
+
+<tr><td>[YOUR_RATING]</td><td>[YOUR_STARS]</td><td>[YOUR_CONTEST_COUNT]</td><td>[YOUR_SOLVED_COUNT]</td></tr>
+</table>
+
 
 <sub>No reliable auto-fetch API exists for CodeChef — fill in your real numbers.</sub>
 
@@ -268,112 +312,124 @@
 ## 🕶️ SECRET IDENTITY
 
 
-```ansi
-[90m$[0m [97mwhoami[0m
-[1;94m> Neetesh[0m
+```text
+$ whoami
+> Neetesh
 
-[90m$[0m [97mrole[0m
-[1;94m> Software Developer (Full-Stack — Java / Spring Boot / React)[0m
+$ role
+> Software Developer (Full-Stack — Java / Spring Boot / React)
 
-[90m$[0m [97mlocation[0m
-[1;94m> India[0m
+$ location
+> India
 
-[90m$[0m [97mmission[0m
-[1;94m> BUILDING...[0m
+$ mission
+> BUILDING...
 
-[90m$[0m [97mstatus[0m
-[1;91m> ONLINE 🟢[0m
+$ status
+> ONLINE 🟢
 ```
+
 
 <div align="center"><img src="./assets/spider-divider.svg" width="100%" alt="web divider"/></div>
 
 ## 👾 CURRENT BOSS
 
+<div align="center">
 
-```ansi
-[1;91mBOSS[0m                [97mPROCRASTINATION[0m
-[1;91mHP[0m                  [91m████████████████████[0m [1;94m100%[0m
-[1;91mWEAKNESS[0m            [1;94mCONSISTENCY[0m
-[1;91mWEAPON EQUIPPED[0m     [1;94mDAILY CODING[0m
-[1;91mDEFEAT CONDITION[0m    [97mKEEP SHOWING UP.[0m
-```
+
+<img src="https://img.shields.io/badge/BOSS-PROCRASTINATION-E23636?style=for-the-badge&labelColor=0D0D0D" alt="BOSS"/>
+
+
+<img src="https://progress-bar.dev/100/?title=HP&width=220&color=e23636&title_width=110" alt="HP progress"/>
+
+
+<img src="https://img.shields.io/badge/WEAKNESS-CONSISTENCY-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt="WEAKNESS"/> <img src="https://img.shields.io/badge/WEAPON-DAILY%20CODING-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt="WEAPON"/>
+
+
+**DEFEAT CONDITION:** Keep showing up.
+
+</div>
 
 <div align="center"><img src="./assets/spider-divider.svg" width="100%" alt="web divider"/></div>
 
 ## 🕷️ STORY MISSIONS — PROJECTS
 
 
-```ansi
-[1;91m╔══════════════════════════════════════════════╗[0m
-[1;91m║[0m [1;94m🕷️ MISSION 01[0m
-[1;91m║[0m [97mCODESYNC[0m
-[1;91m║[0m
-[1;91m║[0m [91mDIFFICULTY:[0m [1;94m★★★★[0m
-[1;91m║[0m [91mSTATUS:[0m     [1;94mIN PROGRESS[0m
-[1;91m║[0m [91mTECH:[0m       [97mTS + SPRING BOOT + POSTGRES[0m
-[1;91m║[0m [90mAuto-tracks LeetCode/CodeChef subs, syncs to[0m
-[1;91m║[0m
-[1;91m║[0m [90mREPO: github.com/nodeneetesh/codesync[0m
-[1;91m╚══════════════════════════════════════════════╝[0m
+```text
+╔══════════════════════════════════════════════╗
+║ 🕷️ MISSION 01
+║ CODESYNC
+║
+║ TECH: TS + Spring Boot + PostgreSQL
+║ Auto-tracks LeetCode/CodeChef subs, syncs to GitHub.
+║
+║ REPO: github.com/nodeneetesh/codesync
+╚══════════════════════════════════════════════╝
 ```
+<img src="https://img.shields.io/badge/DIFFICULTY-★★★★-E23636?style=for-the-badge&labelColor=0D0D0D" alt="DIFFICULTY"/> <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-E23636?style=for-the-badge&labelColor=0D0D0D" alt="STATUS"/>
 
-```ansi
-[1;91m╔══════════════════════════════════════════════╗[0m
-[1;91m║[0m [1;94m🕷️ MISSION 02[0m
-[1;91m║[0m [97mURL SHORTENER[0m
-[1;91m║[0m
-[1;91m║[0m [91mDIFFICULTY:[0m [1;94m★★★[0m
-[1;91m║[0m [91mSTATUS:[0m     [1;94mCOMPLETED[0m
-[1;91m║[0m [91mTECH:[0m       [97mJAVA / SPRING BOOT / JWT[0m
-[1;91m║[0m [90mFull-stack shortener with auth + tracking.[0m
-[1;91m║[0m
-[1;91m║[0m [90mREPO: github.com/nodeneetesh/url-shortener[0m
-[1;91m╚══════════════════════════════════════════════╝[0m
-```
 
-```ansi
-[1;91m╔══════════════════════════════════════════════╗[0m
-[1;91m║[0m [1;94m🕷️ MISSION 03[0m
-[1;91m║[0m [97mSTUDYFLOW[0m
-[1;91m║[0m
-[1;91m║[0m [91mDIFFICULTY:[0m [1;94m★★[0m
-[1;91m║[0m [91mSTATUS:[0m     [1;94mIN PROGRESS[0m
-[1;91m║[0m [91mTECH:[0m       [97mHTML / CSS / JS (OFFLINE)[0m
-[1;91m║[0m [90mOffline single-file student planner app.[0m
-[1;91m║[0m
-[1;91m║[0m [90mREPO: github.com/nodeneetesh/studyflow[0m
-[1;91m╚══════════════════════════════════════════════╝[0m
+```text
+╔══════════════════════════════════════════════╗
+║ 🕷️ MISSION 02
+║ URL SHORTENER
+║
+║ TECH: Java / Spring Boot / JWT
+║ Full-stack shortener with auth + tracking.
+║
+║ REPO: github.com/nodeneetesh/url-shortener
+╚══════════════════════════════════════════════╝
 ```
+<img src="https://img.shields.io/badge/DIFFICULTY-★★★-E23636?style=for-the-badge&labelColor=0D0D0D" alt="DIFFICULTY"/> <img src="https://img.shields.io/badge/STATUS-COMPLETED-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt="STATUS"/>
 
-```ansi
-[1;91m╔══════════════════════════════════════════════╗[0m
-[1;91m║[0m [1;94m🕷️ MISSION 04[0m
-[1;91m║[0m [97mPDF HIGHLIGHTER[0m
-[1;91m║[0m
-[1;91m║[0m [91mDIFFICULTY:[0m [1;94m★★[0m
-[1;91m║[0m [91mSTATUS:[0m     [1;94mIN PROGRESS[0m
-[1;91m║[0m [91mTECH:[0m       [97mELECTRON / PDF.JS[0m
-[1;91m║[0m [90mOffline desktop PDF annotation app.[0m
-[1;91m║[0m
-[1;91m║[0m [90mREPO: github.com/nodeneetesh/pdf-highlighter[0m
-[1;91m╚══════════════════════════════════════════════╝[0m
+
+```text
+╔══════════════════════════════════════════════╗
+║ 🕷️ MISSION 03
+║ STUDYFLOW
+║
+║ TECH: HTML / CSS / JS (offline)
+║ Offline single-file student planner app.
+║
+║ REPO: github.com/nodeneetesh/studyflow
+╚══════════════════════════════════════════════╝
 ```
+<img src="https://img.shields.io/badge/DIFFICULTY-★★-E23636?style=for-the-badge&labelColor=0D0D0D" alt="DIFFICULTY"/> <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-E23636?style=for-the-badge&labelColor=0D0D0D" alt="STATUS"/>
+
+
+```text
+╔══════════════════════════════════════════════╗
+║ 🕷️ MISSION 04
+║ PDF HIGHLIGHTER
+║
+║ TECH: Electron / PDF.js
+║ Offline desktop PDF annotation app.
+║
+║ REPO: github.com/nodeneetesh/pdf-highlighter
+╚══════════════════════════════════════════════╝
+```
+<img src="https://img.shields.io/badge/DIFFICULTY-★★-E23636?style=for-the-badge&labelColor=0D0D0D" alt="DIFFICULTY"/> <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-E23636?style=for-the-badge&labelColor=0D0D0D" alt="STATUS"/>
+
 
 <div align="center"><img src="./assets/spider-divider.svg" width="100%" alt="web divider"/></div>
 
 ## ⚡ SPIDER LEVEL
 
+<div align="center">
 
-```ansi
-[1;91mLEVEL 07[0m
 
-[1;91mXP[0m  [91m██████████████[90m░░░░░░[0m  [1;94m7,450 / 10,000[0m
+<img src="https://img.shields.io/badge/LEVEL-07-E23636?style=for-the-badge&labelColor=0D0D0D" alt="LEVEL"/>
 
-[1;91mNEXT LEVEL:[0m [1;94mCODE WARRIOR[0m
-```
+
+<img src="https://progress-bar.dev/74/?title=XP:%207450/10000&width=220&color=e23636&title_width=110" alt="XP: 7450/10000 progress"/>
+
+
+<img src="https://img.shields.io/badge/NEXT%20LEVEL-CODE%20WARRIOR-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt="NEXT LEVEL"/>
+
 
 <sub>Fictional personal gamification system.</sub>
 
+</div>
 
 <div align="center"><img src="./assets/spider-divider.svg" width="100%" alt="web divider"/></div>
 
@@ -396,13 +452,17 @@
 <div align="center">
 
 
-```ansi
-[1;91mSPIDER CODE[0m
+```text
+SPIDER CODE
 
-[1;91mMISSION STATUS:[0m  [1;94mIN PROGRESS...[0m
-[1;91mNEXT MISSION:[0m    [97mBUILD SOMETHING GREAT.[0m
-[1;91mPLAYER STATUS:[0m   [1;94m🟢 ONLINE[0m
+MISSION STATUS:  IN PROGRESS...
+NEXT MISSION:    BUILD SOMETHING GREAT.
+PLAYER STATUS:   ONLINE
 ```
+
+
+<img src="https://img.shields.io/badge/PLAYER%20STATUS-ONLINE-1E90FF?style=for-the-badge&labelColor=0D0D0D" alt="PLAYER STATUS"/>
+
 
 <img src="./assets/spider-final.svg" width="480" alt="spider swinging away"/>
 
