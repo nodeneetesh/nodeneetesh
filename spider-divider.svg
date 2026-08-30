@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 50" width="100%" height="50">
+  <defs>
+    <linearGradient id="strandGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E23636"/>
+      <stop offset="50%" stop-color="#8B1A1A"/>
+      <stop offset="100%" stop-color="#1E90FF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- base web strand -->
+  <path d="M10,25 Q225,5 450,25 T890,25" fill="none" stroke="url(#strandGrad)" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.9"/>
+
+  <!-- glitch echo strand -->
+  <path d="M10,25 Q225,5 450,25 T890,25" fill="none" stroke="#1E90FF" stroke-width="1" opacity="0.35">
+    <animate attributeName="opacity" values="0.35;0.05;0.35" dur="1.6s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- anchor knots -->
+  <circle cx="10" cy="25" r="3" fill="#E23636"/>
+  <circle cx="450" cy="25" r="3" fill="#1E90FF"/>
+  <circle cx="890" cy="25" r="3" fill="#E23636"/>
+
+  <!-- crawling spider -->
+  <g id="spider">
+    <ellipse cx="0" cy="0" rx="5" ry="4" fill="#0D0D0D" stroke="#E23636" stroke-width="1"/>
+    <circle cx="4" cy="-1" r="2" fill="#0D0D0D" stroke="#E23636" stroke-width="0.8"/>
+    <path d="M-4,-2 L-10,-6 M-4,0 L-11,0 M-4,2 L-10,6 M2,-3 L6,-8 M2,3 L6,8 M4,-2 L9,-5 M4,2 L9,5" stroke="#1E90FF" stroke-width="1" fill="none" stroke-linecap="round"/>
+    <animateMotion path="M10,25 Q225,5 450,25 T890,25" dur="5s" repeatCount="indefinite" rotate="auto"/>
+  </g>
+</svg>
